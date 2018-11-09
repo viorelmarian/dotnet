@@ -1,0 +1,7 @@
+C:\Users\Viorel\Desktop\Final\databaseAccessLayer\bin\Debug\databaseAccessLayer.dll
+C:\Users\Viorel\Desktop\Final\databaseAccessLayer\bin\Debug\databaseAccessLayer.pdb
+C:\Users\Viorel\Desktop\Final\databaseAccessLayer\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Viorel\Desktop\Final\databaseAccessLayer\obj\Debug\databaseAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Viorel\Desktop\Final\databaseAccessLayer\obj\Debug\databaseAccessLayer.csproj.CopyComplete
+C:\Users\Viorel\Desktop\Final\databaseAccessLayer\obj\Debug\databaseAccessLayer.dll
+C:\Users\Viorel\Desktop\Final\databaseAccessLayer\obj\Debug\databaseAccessLayer.pdb

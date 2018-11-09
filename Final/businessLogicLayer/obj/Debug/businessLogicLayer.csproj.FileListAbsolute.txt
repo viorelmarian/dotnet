@@ -1,0 +1,14 @@
+C:\Users\Viorel\Desktop\Final\businessLogicLayer\obj\Debug\businessLogicLayer.csprojAssemblyReference.cache
+C:\Users\Viorel\Desktop\Final\businessLogicLayer\obj\Debug\businessLogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\Viorel\Desktop\Final\businessLogicLayer\bin\Debug\businessLogicLayer.dll.config
+C:\Users\Viorel\Desktop\Final\businessLogicLayer\bin\Debug\businessLogicLayer.dll
+C:\Users\Viorel\Desktop\Final\businessLogicLayer\bin\Debug\businessLogicLayer.pdb
+C:\Users\Viorel\Desktop\Final\businessLogicLayer\bin\Debug\databaseAccessLayer.dll
+C:\Users\Viorel\Desktop\Final\businessLogicLayer\bin\Debug\EntityFramework.dll
+C:\Users\Viorel\Desktop\Final\businessLogicLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Viorel\Desktop\Final\businessLogicLayer\bin\Debug\databaseAccessLayer.pdb
+C:\Users\Viorel\Desktop\Final\businessLogicLayer\bin\Debug\EntityFramework.xml
+C:\Users\Viorel\Desktop\Final\businessLogicLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Viorel\Desktop\Final\businessLogicLayer\obj\Debug\businessLogicLayer.csproj.CopyComplete
+C:\Users\Viorel\Desktop\Final\businessLogicLayer\obj\Debug\businessLogicLayer.dll
+C:\Users\Viorel\Desktop\Final\businessLogicLayer\obj\Debug\businessLogicLayer.pdb
