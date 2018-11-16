@@ -1,18 +1,17 @@
-﻿using System.Data.Entity;
-
+﻿using Microsoft.EntityFrameworkCore;
 namespace DataAccessLayer
 {
-    class ProductContext : DbContext
+    public class ProductContext : DbContext
     {
-        public ProductContext() : base("ProductContext")
+        public ProductContext(DbContextOptions<ProductContext> options) : base(options)
         {
-            Database.CreateIfNotExists();
+            Database.EnsureCreated();
         }
         public DbSet<Product> Products { get; set; }
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
-            modelBuilder.Entity<Todo>().Property(t => t.IsCompleted).IsRequired();
-            modelBuilder.Entity<Todo>().Property(t => t.Description).IsRequired().HasMaxLength(50);
+            modelBuilder.Entity<Product>().Property(t => t.Name).IsRequired();
+            modelBuilder.Entity<Product>().Property(t => t.Price).IsRequired().HasMaxLength(50);
         }
     }
 }
