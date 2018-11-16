@@ -16,7 +16,7 @@ namespace DataAccessLayer
         {
             //EF
         }
-        private Product(string name, double price)
+        public Product(string name, double price)
         {
             Id = Guid.NewGuid();
             SetProperties(name, price);

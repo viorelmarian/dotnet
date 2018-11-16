@@ -149,3 +149,15 @@ C:\Users\Viorel\Desktop\Lab7dotNET\DataAccessLayer\bin\Debug\System.Runtime.Comp
 C:\Users\Viorel\Desktop\Lab7dotNET\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
 C:\Users\Viorel\Desktop\Lab7dotNET\DataAccessLayer\obj\Debug\DataAccessLayer.dll
 C:\Users\Viorel\Desktop\Lab7dotNET\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\Viorel\Desktop\Lab7dotNET\DataAccessLayer\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\Viorel\Desktop\Lab7dotNET\DataAccessLayer\bin\Debug\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\Viorel\Desktop\Lab7dotNET\DataAccessLayer\bin\Debug\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\Viorel\Desktop\Lab7dotNET\DataAccessLayer\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Viorel\Desktop\Lab7dotNET\DataAccessLayer\bin\Debug\Microsoft.Net.Http.Headers.dll
+C:\Users\Viorel\Desktop\Lab7dotNET\DataAccessLayer\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Viorel\Desktop\Lab7dotNET\DataAccessLayer\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\Viorel\Desktop\Lab7dotNET\DataAccessLayer\bin\Debug\Microsoft.AspNetCore.Http.Extensions.xml
+C:\Users\Viorel\Desktop\Lab7dotNET\DataAccessLayer\bin\Debug\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\Viorel\Desktop\Lab7dotNET\DataAccessLayer\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\Viorel\Desktop\Lab7dotNET\DataAccessLayer\bin\Debug\Microsoft.Net.Http.Headers.xml
+C:\Users\Viorel\Desktop\Lab7dotNET\DataAccessLayer\bin\Debug\System.Text.Encodings.Web.xml
